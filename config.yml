@@ -1,4 +1,4 @@
-baseURL: "https://collaalloc.github.io/"
+baseURL: "/"
 title: PaperMod
 paginate: 5
 theme: PaperMod
